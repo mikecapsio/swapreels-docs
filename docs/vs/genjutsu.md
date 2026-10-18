@@ -32,7 +32,7 @@ SwapReels does not merge two videos and does not generate a scene from a text pr
 - Object Swap when one character, outfit, product, location, or object should change and the rest of the shot should stay
 - A weaker fit when viewers need to recognize the original hook, room, and soundtrack
 
-SwapReels does not document Genjutsu's prices, reference limits, resolution, or whether the soundtrack is kept. Read those on Higgsfield's site, and check audio on a test export before you build a series on a sound that has to match.
+Read Genjutsu's current prices, reference limits, and resolution on Higgsfield's site, and check audio on a test export before you build a series on a sound that has to match.
 
 ## Which job is which?
 
@@ -54,6 +54,10 @@ SwapReels does not document Genjutsu's prices, reference limits, resolution, or 
 6. Check rights for the likeness and the source before you post.
 
 Each continuous shot needs to be 15 seconds or shorter. A long single take with no cut can fail even when the full link is under 30 seconds. A private file with no public link belongs on an upload tool such as Genjutsu.
+
+## What you pay for
+
+SwapReels bills one credit per 10 seconds of source video on monthly plans. That one price covers the whole job: the public link, the person swap, the original scene and sound, and on paid plans an HD download with no watermark. There is no separate download step and no second app. Higgsfield prices Genjutsu by length and resolution, so check its current cost on Higgsfield's site. Current SwapReels plans are in Pricing on https://swapreels.com.
 
 ## Privacy and rights
 
