@@ -32,7 +32,7 @@ SwapReels does not merge two videos and does not generate a scene from a text pr
 - A natural fit when the photo and the clip are already available
 - A weaker fit when you would otherwise download a public short just to recreate a trend
 
-SwapReels does not document Reface's prices, watermarks, or data terms. Read those on Reface's site.
+Read Reface's current prices, watermark rules, and data terms on Reface's site.
 
 ## Which job is which?
 
@@ -51,6 +51,10 @@ SwapReels does not document Reface's prices, watermarks, or data terms. Read tho
 4. Paste a `youtube.com/shorts/...` link for YouTube. Regular watch links and `youtu.be` links are rejected.
 5. Generate, preview with sound, and download.
 6. Check rights for the likeness and the source before you post.
+
+## What you pay for
+
+SwapReels bills one credit per 10 seconds of source video on monthly plans. The price covers the public link, the person swap, the original audio, and on paid plans an HD download with no watermark. You do not download the trend or re-import it into a second app. Reface sells through the App Store, Google Play, and the web, so confirm its current plan on the screen you subscribe from. Current SwapReels plans are in Pricing on https://swapreels.com.
 
 ## Privacy and rights
 
