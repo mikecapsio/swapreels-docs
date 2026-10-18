@@ -108,8 +108,7 @@ SwapReels covers the step those tools do not: take a public short that already w
    SwapReels keeps the audio from the linked clip. Confirm audio behavior on any other tool before you depend on it.
 
 5. **Do you need a clean file?**
-   On SwapReels, paid plans include HD downloads with no watermark. A free try is for checking the result.
-
+   On SwapReels, paid plans include HD downloads with no watermark.
 6. **Do you have the rights?**
    Every tool in this list still requires permission for the likeness and the source. None of them are a license to impersonate someone.
 
