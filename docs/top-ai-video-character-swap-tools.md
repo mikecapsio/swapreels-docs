@@ -13,6 +13,7 @@ Names below are the ones the public SwapReels site uses when people compare tool
 - Choose **Deepswap**, **Remaker**, or a similar upload-first site when the source file is already on your computer.
 - Choose **Vidnoz** when you want a broader online AI video suite, including generators for scenes that are not already a short.
 - Choose **Akool** when a marketing team needs a larger AI video toolkit than one swapped short.
+- Choose **Higgsfield Genjutsu** when you already have a video file and want motion transfer into a new scene, wardrobe, product, or style.
 - Choose a **video editor** when the job is cuts, captions, overlays, or stitching several clips.
 
 Many workflows use more than one tool. SwapReels can make the person-swap cut. An editor can still add captions after the download.
@@ -78,7 +79,15 @@ A creator posting one trend does not need a full suite. If the brief is one publ
 
 See [SwapReels vs Akool](vs/akool.md).
 
-## 6. Editors and filming
+## 6. Higgsfield Genjutsu: motion transfer on a file you upload
+
+Higgsfield Genjutsu transforms a video you upload. Motion Transfer keeps the motion, camera, and timing, then rebuilds the scene from your references. Object Swap changes one selected element and keeps the rest of the shot.
+
+Use Genjutsu when the footage is yours and the look should change: a new location, wardrobe, product, or style. Use SwapReels when the post has to look like a public short, with the original scene and audio kept and only the person changed. Both start from a video that already exists, and they do different jobs with it.
+
+See [SwapReels vs Higgsfield Genjutsu](vs/genjutsu.md).
+
+## 7. Editors and filming
 
 CapCut and other editors are the right tool when you need a timeline: cuts, text, stickers, and several clips in one post. Filming is the right tool when the performance has to be yours on camera, or when no public clip matches the brief.
 
