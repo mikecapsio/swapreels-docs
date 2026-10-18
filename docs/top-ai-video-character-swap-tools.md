@@ -33,7 +33,7 @@ What you get:
 
 What you do not get: a video from a text prompt, a merge of two clips, or a full editing timeline.
 
-Sign-in is Google. Public plans are Starter, Pro, Max, and Ultra. Prices and monthly allowances are in Pricing on https://swapreels.com.
+Sign-in is Google. Public plans are Starter, Pro, Max, and Ultra. One price covers the whole short: the public link, the person swap, the original audio, and on paid plans an HD download with no watermark. Prices and monthly allowances are in Pricing on https://swapreels.com.
 
 A practical fit:
 
@@ -74,7 +74,7 @@ See [SwapReels vs Vidnoz](vs/vidnoz.md).
 
 Akool is an AI video platform aimed at marketing teams. It fits a campaign that needs a larger toolkit than a single swapped short.
 
-A creator posting one trend does not need that suite. If the brief is one public link and one photo, SwapReels is the smaller tool: person swap, original audio, download.
+A creator posting one trend does not need a full suite. If the brief is one public link and one photo, SwapReels is the focused path: person swap, original audio, download.
 
 See [SwapReels vs Akool](vs/akool.md).
 
