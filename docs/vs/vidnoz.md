@@ -30,7 +30,7 @@ Use SwapReels when the video already exists as a public short and the change is 
 - A fit for presenters, templates, or scenes you still need to create
 - A slower path to a trend if you generate a new scene and then try to match a sound that already exists on a public short
 
-SwapReels does not quote Vidnoz prices or data policies. Read those on Vidnoz's site.
+Read Vidnoz's current prices and data policies on Vidnoz's site.
 
 ## Choosing by the brief
 
@@ -49,6 +49,10 @@ SwapReels does not quote Vidnoz prices or data policies. Read those on Vidnoz's 
 4. Paste the link. For YouTube, use `youtube.com/shorts/...`.
 5. Generate, preview, and download.
 6. Confirm you can use the likeness and the source.
+
+## What you pay for
+
+SwapReels bills one credit per 10 seconds of source video on monthly plans. The price covers the public link, the person swap, the original audio, and on paid plans an HD download with no watermark. You pay for the finished short, not for generating a new scene and then trying to match its sound. Current SwapReels plans are in Pricing on https://swapreels.com.
 
 ## Privacy
 
