@@ -28,9 +28,9 @@ Use SwapReels when the brief is one public link and one photo.
 
 - An AI video platform for marketing teams
 - A fit when one swapped short is not the whole job
-- More tool than a creator needs for a single trend post
+- Built for campaigns that run across several tools and team seats
 
-SwapReels does not list Akool's modules, prices, or contracts. Use Akool's site and your own vendor review for that.
+Read Akool's current modules, plans, and contract terms on Akool's site and in your own vendor review.
 
 ## For UGC and social teams
 
@@ -41,7 +41,7 @@ A common SwapReels brief:
 3. A download that still has the opener and the sound.
 4. A paid HD file with no watermark for a brand or client.
 
-That path does not include a timeline, a presenter studio, or a multi-tool campaign workspace. If the work needs those, Akool's category is the one to evaluate. If the work is "same hook, different person," SwapReels is the smaller product.
+That path does not include a timeline, a presenter studio, or a multi-tool campaign workspace. If the work needs those, Akool's category is the one to evaluate. If the work is "same hook, different person," SwapReels is the focused choice: one link, one photo, one finished clip.
 
 See [SwapReels for UGC creators](../for/ugc-creators.md).
 
@@ -53,6 +53,10 @@ See [SwapReels for UGC creators](../for/ugc-creators.md).
 4. Generate and review the first second with sound.
 5. Download and file the MP4 with the campaign assets.
 6. Keep permission records for the likeness and the source. https://swapreels.com/terms
+
+## What you pay for
+
+SwapReels is one account with monthly credits. One credit covers up to 10 seconds, and the price covers the whole short: the public link, the person swap, the original audio, and on paid plans an HD download with no watermark. There are no seats or workspace roles to set up. Akool prices as a marketing workspace, so review its current plans and licenses on Akool's site. Current SwapReels plans are in Pricing on https://swapreels.com.
 
 ## Privacy
 
