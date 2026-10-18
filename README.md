@@ -19,6 +19,7 @@ SwapReels works on a clip that already exists. It does not write a new scene fro
 - [SwapReels vs Deepswap](docs/vs/deepswap.md)
 - [SwapReels vs Vidnoz](docs/vs/vidnoz.md)
 - [SwapReels vs Akool](docs/vs/akool.md)
+- [SwapReels vs Higgsfield Genjutsu](docs/vs/genjutsu.md)
 
 ## At a glance
 
