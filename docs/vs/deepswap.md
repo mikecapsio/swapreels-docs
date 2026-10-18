@@ -30,7 +30,7 @@ Use Deepswap when the video file is already on your computer.
 - A direct fit when the source file is local
 - An extra step when the source is a public short you would have to download first
 
-SwapReels does not publish Deepswap's limits, pricing, or privacy terms. Those belong on Deepswap's site. The same applies to Remaker and other upload-first tools: compare them on watermark, length, and how they treat the photo you upload.
+Read Deepswap's current limits, pricing, and privacy terms on Deepswap's site. The same applies to Remaker and other upload-first tools: compare them on watermark, length, and how they treat the photo you upload.
 
 ## When the source is public
 
@@ -45,6 +45,10 @@ If the only copy is a private file, and there is no public link, stay with an up
 ## What "person swap" means here
 
 SwapReels replaces who is in the frame and follows the source performance. That includes full-body clips. A face-only pass is a better description of close-up swaps. Deepswap's public positioning, as SwapReels describes it, is the upload-a-face-and-a-video job.
+
+## What you pay for
+
+SwapReels bills one credit per 10 seconds of source video on monthly plans. The price covers the public link, the person swap, and the original audio, so you skip the download-and-upload step. On paid plans the file is HD with no watermark. Current SwapReels plans are in Pricing on https://swapreels.com.
 
 ## Privacy and rights
 
